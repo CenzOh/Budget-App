@@ -4,7 +4,7 @@
 
 [Repl.it Link for the final result](https://replit.com/@VincenzoMezzio/boilerplate-budget-app#README.md)
 
-![Results](output.png)
+![Results](output.PNG)
 
 ### Assignment
 
